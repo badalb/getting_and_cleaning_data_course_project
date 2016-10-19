@@ -91,4 +91,4 @@ Code book to summarizes the resulting data fields of `tidy_data.txt`.
 * `fBodyBodyGyroJerkMag-mean()` 
 * `fBodyBodyGyroJerkMag-std()` 
 * `fBodyBodyGyroJerkMag-meanFreq()` 
-* `activityType"
+* `activityType`
